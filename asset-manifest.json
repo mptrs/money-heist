@@ -3,14 +3,14 @@
     "static/js/0.38db6572.chunk.js": "/money-heist/static/js/0.38db6572.chunk.js",
     "static/js/0.38db6572.chunk.js.map": "/money-heist/static/js/0.38db6572.chunk.js.map",
     "main.css": "/money-heist/static/css/main.14516590.chunk.css",
-    "main.js": "/money-heist/static/js/main.511bc7a2.chunk.js",
-    "main.js.map": "/money-heist/static/js/main.511bc7a2.chunk.js.map",
+    "main.js": "/money-heist/static/js/main.4177b85a.chunk.js",
+    "main.js.map": "/money-heist/static/js/main.4177b85a.chunk.js.map",
     "runtime-main.js": "/money-heist/static/js/runtime-main.8e35cc84.js",
     "runtime-main.js.map": "/money-heist/static/js/runtime-main.8e35cc84.js.map",
     "static/js/3.c5329e4f.chunk.js": "/money-heist/static/js/3.c5329e4f.chunk.js",
     "static/js/3.c5329e4f.chunk.js.map": "/money-heist/static/js/3.c5329e4f.chunk.js.map",
     "index.html": "/money-heist/index.html",
-    "precache-manifest.91c6dc61797c50d3423dab4d76ca739a.js": "/money-heist/precache-manifest.91c6dc61797c50d3423dab4d76ca739a.js",
+    "precache-manifest.0924455c1415af26837adcd4dcadf20f.js": "/money-heist/precache-manifest.0924455c1415af26837adcd4dcadf20f.js",
     "service-worker.js": "/money-heist/service-worker.js",
     "static/css/main.14516590.chunk.css.map": "/money-heist/static/css/main.14516590.chunk.css.map",
     "static/js/3.c5329e4f.chunk.js.LICENSE.txt": "/money-heist/static/js/3.c5329e4f.chunk.js.LICENSE.txt"
@@ -19,6 +19,6 @@
     "static/js/runtime-main.8e35cc84.js",
     "static/js/3.c5329e4f.chunk.js",
     "static/css/main.14516590.chunk.css",
-    "static/js/main.511bc7a2.chunk.js"
+    "static/js/main.4177b85a.chunk.js"
   ]
 }
