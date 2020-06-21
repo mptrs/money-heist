@@ -8,7 +8,7 @@ const App = ({ children }: { children: JSX.Element }): JSX.Element => {
 		<Fragment>
 			<header className="header">
 				<div>
-					<h1>Money Heist</h1>
+					<h1>Money Heist!</h1>
 					<p>Pick your favourite episode</p>
 				</div>
 				<div>
