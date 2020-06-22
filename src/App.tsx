@@ -13,8 +13,10 @@ const App = ({ children }: { children: JSX.Element }): JSX.Element => {
 					<p>Pick your favourite episode</p>
 				</div>
 				<div>
-					<Link to="/">Home</Link>
-					<Link to="/faves">Favourite(s): {state.favourites.length}</Link>
+					<Link to={`${process.env.PUBLIC_URL}/`}>Home</Link>
+					<Link to={`${process.env.PUBLIC_URL}/faves`}>
+						Favourite(s): {state.favourites.length}
+					</Link>
 				</div>
 			</header>
 			{children}

@@ -13,8 +13,14 @@ const RouterPage = (
 ReactDOM.render(
 	<StoreProvider>
 		<Router>
-			<RouterPage pageComponent={<HomePage />} path="/money-heist" />
-			<RouterPage pageComponent={<FavPage />} path="/money-heist/faves" />
+			<RouterPage
+				pageComponent={<HomePage />}
+				path={`${process.env.PUBLIC_URL}/`}
+			/>
+			<RouterPage
+				pageComponent={<FavPage />}
+				path={`${process.env.PUBLIC_URL}/faves`}
+			/>
 		</Router>
 	</StoreProvider>,
 	document.getElementById('root')
