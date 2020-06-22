@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/money-heist/precache-manifest.0924455c1415af26837adcd4dcadf20f.js"
+  "/money-heist/precache-manifest.372c558b8f9a8e5c787204e8c12b7173.js"
 );
 
 self.addEventListener('message', (event) => {
