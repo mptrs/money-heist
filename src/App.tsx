@@ -1,6 +1,7 @@
 import React, { useContext, Fragment } from 'react';
 import { Store } from './Store';
 import { Link } from '@reach/router';
+
 const App = ({ children }: { children: JSX.Element }): JSX.Element => {
 	const { state } = useContext(Store);
 
